@@ -18,4 +18,5 @@
   <a href="https://www.postgresql.org/" rel="nofollow"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="38" height="38" style="max-width: 100%;"> </a> 
 </p>
 
-![image](https://user-images.githubusercontent.com/84780295/215301111-bd4f641a-dffa-47da-ba92-72b3ba96b4a4.png)
+<img width="1140" height="445" src="https://cdn-web.sysbee.net/wp-content/uploads/2020/07/gitlab-vs-github-min-1.png?x70831" class="owl-lazy img-responsive" alt="GitLab vs GitHub" srcset="https://cdn-web.sysbee.net/wp-content/uploads/2020/07/gitlab-vs-github-min-1.png?x70831 1140w, https://cdn-web.sysbee.net/wp-content/uploads/2020/07/gitlab-vs-github-min-1-1024x400.png?x70831 1024w, https://cdn-web.sysbee.net/wp-content/uploads/2020/07/gitlab-vs-github-min-1-768x300.png?x70831 768w, https://cdn-web.sysbee.net/wp-content/uploads/2020/07/gitlab-vs-github-min-1-640x250.png?x70831 640w, https://cdn-web.sysbee.net/wp-content/uploads/2020/07/gitlab-vs-github-min-1-400x156.png?x70831 400w, https://cdn-web.sysbee.net/wp-content/uploads/2020/07/gitlab-vs-github-min-1-367x143.png?x70831 367w" sizes="(max-width: 1140px) 100vw, 1140px">
+
