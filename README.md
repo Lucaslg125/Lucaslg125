@@ -17,8 +17,9 @@
 </p>
 <img width="1140" height="445" src="https://cdn-web.sysbee.net/wp-content/uploads/2020/07/gitlab-vs-github-min-1.png?x70831" class="owl-lazy img-responsive" alt="GitLab vs GitHub" srcset="https://cdn-web.sysbee.net/wp-content/uploads/2020/07/gitlab-vs-github-min-1.png?x70831 1140w, https://cdn-web.sysbee.net/wp-content/uploads/2020/07/gitlab-vs-github-min-1-1024x400.png?x70831 1024w, https://cdn-web.sysbee.net/wp-content/uploads/2020/07/gitlab-vs-github-min-1-768x300.png?x70831 768w, https://cdn-web.sysbee.net/wp-content/uploads/2020/07/gitlab-vs-github-min-1-640x250.png?x70831 640w, https://cdn-web.sysbee.net/wp-content/uploads/2020/07/gitlab-vs-github-min-1-400x156.png?x70831 400w, https://cdn-web.sysbee.net/wp-content/uploads/2020/07/gitlab-vs-github-min-1-367x143.png?x70831 367w" sizes="(max-width: 1140px) 100vw, 1140px">
 
+
 <div>
 <a href="https://github.com/Lucaslg125">
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=seu-usuário-aqui&layout=compact&langs_count=7&theme=dracula"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api?Lucaslg125-aqui&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lucaslg125&layout=compact&langs_count=7&theme=dracula"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Lucaslg125&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 </div>
