@@ -17,9 +17,7 @@
 </p>
 <img width="1140" height="445" src="https://cdn-web.sysbee.net/wp-content/uploads/2020/07/gitlab-vs-github-min-1.png?x70831" class="owl-lazy img-responsive" alt="GitLab vs GitHub" srcset="https://cdn-web.sysbee.net/wp-content/uploads/2020/07/gitlab-vs-github-min-1.png?x70831 1140w, https://cdn-web.sysbee.net/wp-content/uploads/2020/07/gitlab-vs-github-min-1-1024x400.png?x70831 1024w, https://cdn-web.sysbee.net/wp-content/uploads/2020/07/gitlab-vs-github-min-1-768x300.png?x70831 768w, https://cdn-web.sysbee.net/wp-content/uploads/2020/07/gitlab-vs-github-min-1-640x250.png?x70831 640w, https://cdn-web.sysbee.net/wp-content/uploads/2020/07/gitlab-vs-github-min-1-400x156.png?x70831 400w, https://cdn-web.sysbee.net/wp-content/uploads/2020/07/gitlab-vs-github-min-1-367x143.png?x70831 367w" sizes="(max-width: 1140px) 100vw, 1140px">
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Lucaslg125&layout=compact)](https://github.com/Lucaslg125/github-readme-stats)
 
-<div align="center">
-<a href="https://github.com/Lucaslg125/Lucaslg125">
-  <img height="180em" src="https://camo.githubusercontent.com/8fa00f32aee32eaf39e367b27fe1fac675c78aa42280c0ad98b095950c02fc0a/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170692f746f702d6c616e67732f3f757365726e616d653d5269636d616c6f79266c61796f75743d636f6d70616374266c616e67735f636f756e743d37267468656d653d726561637426686964655f626f726465723d74727565" data-canonical-src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lucaslg125&layout=compact&amp;langs_count=7&amp;theme=react&amp;hide_border=true" style="max-width: 100%;">
-  <img height="180em" src="https://camo.githubusercontent.com/1839d0ccb31e611c456998a761e6f192456f75f1a4e7a0c3e19dd0ecee2f4877/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170693f757365726e616d653d5269636d616c6f792673686f775f69636f6e733d74727565267468656d653d726561637426696e636c7564655f616c6c5f636f6d6d6974733d7472756526636f756e745f707269766174653d7472756526686964655f626f726465723d74727565" data-canonical-src="https://github-readme-stats.vercel.app/api?username=Lucaslg125&show_icons=true&amp;theme=react&amp;include_all_commits=true&amp;count_private=true&amp;hide_border=true" style="max-width: 100%;">
-</a>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Lucaslg125&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+</div>
